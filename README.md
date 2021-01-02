@@ -17,6 +17,7 @@ In this [config.py](https://github.com/paarshan4800/ctf-task-rest-api/blob/maste
 
 ### [Setup Flask](https://www.youtube.com/watch?v=QjtW-wnXlUY)
 
+### [Postman for API Testing](https://www.postman.com/downloads/)
 
 
 
