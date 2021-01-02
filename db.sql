@@ -1,3 +1,11 @@
+-- Database Creation
+
+create database ctfbackend;
+
+-- Use Database
+
+use ctfbackend;
+
 -- Table Creation
 
 create table ctf(
@@ -16,6 +24,11 @@ create table users(
 
 INSERT INTO ctf (name) values ('paargav');
 INSERT INTO ctf (name) values ('bruno');
+INSERT INTO ctf (name) values ('rashford');
+INSERT INTO ctf (name) values ('martial');
+INSERT INTO ctf (name) values ('mata');
+INSERT INTO ctf (name) values ('pogba');
+
 
 INSERT INTO users (user_name,pass_word) values ('user123','sha256$kwSJfqDP$439ea7adbfa75360d6aedb36b8daf71d7ee4e3d11baccec8af95c161b0bd1b3f');
 INSERT INTO users (user_name,pass_word) values ('user456','sha256$ilP3KGkZ$12802bab86a82e243b0ac4a30391691c4d80868586cd1a0866debc632dd44c82');

@@ -8,14 +8,6 @@ from functools import wraps
 import jwt
 import datetime
 
-# hash_pass = generate_password_hash('testing123',method='sha256')
-# 'sha256$kwSJfqDP$439ea7adbfa75360d6aedb36b8daf71d7ee4e3d11baccec8af95c161b0bd1b3f'
-# hash_pass = generate_password_hash('testing456',method='sha256')
-# 'sha256$ilP3KGkZ$12802bab86a82e243b0ac4a30391691c4d80868586cd1a0866debc632dd44c82'
-# hash_pass = generate_password_hash('testing789',method='sha256')
-# 'sha256$aLFQ7uWr$5de2228064126536e8dafb7110deaa4bf8dc8addbac88365b2a9256bff37c476'
-
-
 import config
 
 
